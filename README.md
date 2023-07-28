@@ -1,2 +1,3 @@
-# user-import-google
-Extract, transform and load user records into Hornbill from Google Workspace.
+# User Import - Database to Hornbill
+
+See the [Hornbill Wiki](https://wiki.hornbill.com/index.php?title=Google_Workspace_User_Import) for documentation.
